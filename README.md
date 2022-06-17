@@ -7,7 +7,7 @@
 
 ### 💻 Projeto
 
-O FutureFoods (FutureEats) é um projeto criado com o intuito de criar um app de delivery de comida, que tenha todas suas funcionalidades, que um app ed delivery de comida tem, ele é todo feito em mobile fisrt. 
+O FutureFoods (FutureEats) é um projeto criado com o intuito de criar um app de delivery de comida, que tenha todas suas funcionalidades, que um app de delivery de comida tem, ele é todo feito em mobile fisrt. 
 
 ### ✨ Deploy da aplicação
 
