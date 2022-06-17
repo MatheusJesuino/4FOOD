@@ -7,31 +7,11 @@
 
 ### 💻 Projeto
 
-O LabeFoods (FutureEats) é um projeto criado por estudantes da Labenu, e segue o modelo de website em que é possível escolher refeições entre diversos tipos de restaurantes
+O FutureFoods (FutureEats) é um projeto criado com o intuito de criar um app de delivery de comida, que tenha todas suas funcionalidades, que um app ed delivery de comida tem, ele é todo feito em mobile fisrt. 
 
 ### ✨ Deploy da aplicação
 
 Você pode visualizar o projeto pelo seguinte link: https://futureeatsa-shaw.surge.sh
-
-### 🚀 Como executar
-
-Clonar o repositório:
-
-$ git clone https://github.com/future4code/Shaw-labe-ninja9
-
-Acessar o repertório:
-
-$ cd Shaw-labe-food2
-
-### ✒️ Autores
-
-- Matheus Jesuino https://github.com/MatheusJesuino
-
-- Regiscleia Dias https://github.com/regiscleia
-
-- Rodrigo Goularte https://github.com/rodrigoularte
-
-- Rodrigo Pernambuco https://github.com/RodrigoPernambuco
 
 ### 🖼️ Algumas telas (Layout mobile)
 
